@@ -1,0 +1,12 @@
+/Users/burvxs/Workspace/HashMapStructure/HashMap/obj/Debug/netcoreapp3.1/HashMapStructure.csprojAssemblyReference.cache
+/Users/burvxs/Workspace/HashMapStructure/HashMap/obj/Debug/netcoreapp3.1/HashMapStructure.AssemblyInfoInputs.cache
+/Users/burvxs/Workspace/HashMapStructure/HashMap/obj/Debug/netcoreapp3.1/HashMapStructure.AssemblyInfo.cs
+/Users/burvxs/Workspace/HashMapStructure/HashMap/obj/Debug/netcoreapp3.1/HashMapStructure.csproj.CoreCompileInputs.cache
+/Users/burvxs/Workspace/HashMapStructure/HashMap/bin/Debug/netcoreapp3.1/HashMapStructure.deps.json
+/Users/burvxs/Workspace/HashMapStructure/HashMap/bin/Debug/netcoreapp3.1/HashMapStructure.runtimeconfig.json
+/Users/burvxs/Workspace/HashMapStructure/HashMap/bin/Debug/netcoreapp3.1/HashMapStructure.runtimeconfig.dev.json
+/Users/burvxs/Workspace/HashMapStructure/HashMap/bin/Debug/netcoreapp3.1/HashMapStructure.dll
+/Users/burvxs/Workspace/HashMapStructure/HashMap/bin/Debug/netcoreapp3.1/HashMapStructure.pdb
+/Users/burvxs/Workspace/HashMapStructure/HashMap/obj/Debug/netcoreapp3.1/HashMapStructure.dll
+/Users/burvxs/Workspace/HashMapStructure/HashMap/obj/Debug/netcoreapp3.1/HashMapStructure.pdb
+/Users/burvxs/Workspace/HashMapStructure/HashMap/obj/Debug/netcoreapp3.1/HashMapStructure.genruntimeconfig.cache

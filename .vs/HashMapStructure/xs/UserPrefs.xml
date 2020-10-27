@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5AE90A90-FCEE-45E9-AD80-F6B724BC5DE0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HashMap/HashMap.cs">
+    <Files>
+      <File FileName="HashMap/Program.cs" Line="17" Column="51" />
+      <File FileName="HashMap/HashMap.cs" Line="43" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HashMapStructure" expanded="True">
+            <Node name="HashMapStructure" expanded="True">
+              <Node name="HashMap.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HashMapStructure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
